@@ -1,4 +1,4 @@
-# Thorvaldur
+# Þorvaldur Breki Lárusson 
 
 
 * Currently learning Computer sience at Reykjavik university.
