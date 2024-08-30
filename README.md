@@ -1,10 +1,8 @@
 # Þorvaldur Breki Lárusson 
 
 
-* Currently learning Computer sience at Reykjavik university.
-
-
-![GIF cat](https://tenor.com/en-GB/view/pop-cat-gif-4564454694708864673?raw=true)
+* Currently studying Computer sience at Reykjavik university.
+* Reach me at Thorvaldurbreki04@gmail.com
 
 <!--* [LinkedIn](https://www.linkedin.com/in/johndoe) | [Twitter](https://twitter.com/johndoe) -->
 
