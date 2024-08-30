@@ -1,4 +1,10 @@
-## Hi there 👋
+# Thorvaldur
+
+
+* Currently learning Computer sience at Reykjavik university.
+
+<!--* [LinkedIn](https://www.linkedin.com/in/johndoe) | [Twitter](https://twitter.com/johndoe) -->
+
 
 <!--
 **TTedy/TTedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
