@@ -4,7 +4,7 @@
 * Currently learning Computer sience at Reykjavik university.
 
 
-![GIF cat](https://tenor.com/en-GB/view/pop-cat-gif-4564454694708864673)
+![GIF cat](https://tenor.com/en-GB/view/pop-cat-gif-4564454694708864673?raw=true)
 
 <!--* [LinkedIn](https://www.linkedin.com/in/johndoe) | [Twitter](https://twitter.com/johndoe) -->
 
